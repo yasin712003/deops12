@@ -1,0 +1,22 @@
+Protect usernam and apssword for evry task
+
+
+
+GitHub CLI will automatically store your Git credentials for you when you choose HTTPS as your preferred protocol for Git operations and answer "yes" to the prompt asking if you would like to authenticate to Git with your GitHub credentials.
+
+    *Install GitHub CLI on macOS, Windows, or Linux.
+    In the command line, enter gh auth login, then follow the prompts.
+        When prompted for your preferred protocol for Git operations, select HTTPS.
+        When asked if you would like to authenticate to Git with your GitHub credentials, enter Y.
+        
+        
+        
+        
+        
+        *Install GitHUb
+        
+        https://github.com/cli/cli#installation
+        
+        *Install Linux and BSD
+        
+        https://github.com/cli/cli/blob/trunk/docs/install_linux.md
